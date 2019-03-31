@@ -1,0 +1,19 @@
+{
+  "name": "twig",
+  "version": "1.0.0",
+  "description": "coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "twig",
+    "education"
+  ],
+  "author": "john wanjiku",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
